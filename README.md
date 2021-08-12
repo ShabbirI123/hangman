@@ -1,1 +1,1 @@
-' hangmna
+Hangman
